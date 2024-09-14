@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Sharma</h1>
 <h3 align="center">A passionate iOS developer from India</h3>
 
-About me 
+###About me 
 I am an eager and dedicated iOS Developer with solid skills in Swift, SwiftUI
 and Xcode. I am excited to use my ability to build new and user-friendly
 apps. I love learning new things and keeping up with the latest tech trends.
